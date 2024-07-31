@@ -35,3 +35,10 @@ In my case, I edited the file to:
 At this point, you can simply launch, by double clicking, the file **launch.bat** and the dialog window will appear. But I suggest you create a shortcut of **launch.bat** on the desktop and launch it from there.
 
 Voila! Hope it works for you.
+
+# Walsh notes to remember
+
+- I created a shortcut in Executor called "webcam_settings".
+- If the shortcut doesn't work, it's probably the USB switch's fault. (Probably the webcam doesn't even appear in Device Manager right now.) Try toggling the switch a couple times, then run "webcam_settings" again.
+
+![Device_Manager](readme/Device_Manager.png)
